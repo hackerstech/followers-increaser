@@ -61,7 +61,7 @@ bash increaser.sh
 
 
 ### demo on youtube
-link [watch](https://www.youtube.com/watch?v=byN17DiOr0I)
+link [watch here](https://www.youtube.com/watch?v=byN17DiOr0I)
 
 
 
