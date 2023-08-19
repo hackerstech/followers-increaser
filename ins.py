@@ -26,7 +26,7 @@ while True:
     time.sleep(70)
     api = Client(user_name, password)
     for i in s :
-        api.friendships_destroy(p)
+        api.friendships_destroy(i)
         time.sleep(3)
 
 
